@@ -4,7 +4,7 @@ The provided repository contains the implementation of a restaurant recommendati
 ## Project Members
 * Ahad Alsulami | 2008263 | [@AhadAlsulami](https://github.com/AhadAlsulami)
 * Shatha Alotaibi | 2006590 | [@ShathaALotaibi2](https://github.com/ShathaALotaibi2)
-* Reema Albishri | 2007876
+* Reema Albishri | 2007876 | [@ReemaTalal16](https://github.com/ReemaTalal16)
 
 ## Implementation
 The code is written in Python and utilizes various libraries and frameworks, including TensorFlow. The main steps of the implementation include:
