@@ -2,8 +2,8 @@
 The provided repository contains the implementation of a restaurant recommendation system based on collaborative filtering. It utilizes Variational Autoencoders (VAEs) and was originally developed as part of a Recommender Systems course project. The code in the repository is a fork from the code associated with the research paper titled "[Variational autoencoders for collaborative filtering](https://arxiv.org/pdf/1802.05814.pdf)" by Dawen Liang, Rahul G. Krishnan, Matthew D. Hoffman, and Tony Jebara, presented at The Web Conference (WWW) 2018. The repository has been subsequently updated by Jakub Kuniszewski.
 
 ## Project Members
-* Ahad Alsulami | 2008263
-* Shatha Alotaibi | 2006590
+* Ahad Alsulami | 2008263 | [@AhadAlsulami](https://github.com/AhadAlsulami)
+* Shatha Alotaibi | 2006590 | [@ShathaALotaibi2](https://github.com/ShathaALotaibi2)
 * Reema Albishri | 2007876
 
 ## Implementation
