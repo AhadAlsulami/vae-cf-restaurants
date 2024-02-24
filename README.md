@@ -12,7 +12,7 @@ The code is written in Python and utilizes various libraries and frameworks, inc
 2. Preprocessing the data
 3. Building the Variational Autoencoder model
 4. Training the model
-5. Rvaluating the generated restaurant recommendations
+5. Evaluating the generated restaurant recommendations
 
 ## Repository Structure
 The repository consists of the following files:
